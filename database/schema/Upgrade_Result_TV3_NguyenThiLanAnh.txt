@@ -1,0 +1,3 @@
+Changed database context to 'QLToaNha_BCNF'.
+Schema da dung INT/view; tiep tuc nang cap thanh toan.
+PASS: payment columns and trusted CHECK installed; invoice rows preserved.

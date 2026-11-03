@@ -1,0 +1,8 @@
+LOCAL CHECKS ONLY - NOT SQL SERVER TEST RESULTS
+Five procedure definitions present: four business implementations and one explicit unsupported guard for T4.
+No dbo.TV4_ table dependencies; no CREATE TABLE dbo statements in TV4 scripts.
+MaHoaDon INT; no INSERT of SoTien; totals read V_ChiTietHoaDon.
+SQL delimiter sanity check passed, not a parser/compilation test.
+Original source copies match latest attachments byte for byte.
+SQL Server execution: NOT RUN. PowerShell runner: NOT RUN.
+Independent decimal arithmetic: threshold boundaries, invoice and bonus examples passed. Not SQL execution.
