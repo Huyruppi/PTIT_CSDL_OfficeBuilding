@@ -49,8 +49,8 @@ Hệ thống bao gồm 4 container phối hợp nhịp nhàng:
 ### Bước 1: Tải mã nguồn về máy chủ Linux
 
 ```bash
-git clone https://github.com/VUTHANHPHONGs/OfficeBuildingManagement.git
-cd OfficeBuildingManagement
+git clone https://github.com/Huyruppi/PTIT_CSDL_OfficeBuilding.git
+cd PTIT_CSDL_OfficeBuilding
 ```
 
 ### Bước 2: Cấu hình biến môi trường (Tùy chọn)
